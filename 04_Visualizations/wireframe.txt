@@ -1,0 +1,120 @@
++--------------------------------------------------------------------------------------------------+
+| PAGE TITLE: Cyclistic Rider Overview                                                             |
+| Subtitle: How do annual members and casual riders use Cyclistic bikes differently?               |
++--------------------------------------------------------------------------------------------------+
+
++------------------+ +------------------+ +------------------+ +------------------+ +------------+
+| KPI: Total Trips | | KPI: Member Trips| | KPI: Casual Trips| | KPI: Avg Duration| | KPI: Median|
+|                  | |                  | |                  | |                  | | Duration    |
++------------------+ +------------------+ +------------------+ +------------------+ +------------+
+
++-------------------------------------------+ +-----------------------------------------------+
+| Donut / 100% Stacked Bar                  | | Member vs Casual Comparison Table             |
+| Trip Share                                | |-----------------------------------------------|
+| Member % vs Casual %                      | | Metric            | Member | Casual           |
+|                                           | | Trips             |        |                  |
+|                                           | | Avg Ride Length   |        |                  |
+|                                           | | Median Ride Length|        |                  |
+|                                           | | Round Trip Rate   |        |                  |
++-------------------------------------------+ +-----------------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| HEADLINE INSIGHT BOX                                                                          |
+| Members generate most trips, but casual riders take longer and more leisure-oriented rides.   |
++-----------------------------------------------------------------------------------------------+
+
++-------------------------------------------+ +-----------------------------------------------+
+| Clustered Bar / Column                    | | Small Notes / Definitions                      |
+| Avg + Median Ride Length by Rider Type    | | - Member = annual subscriber                   |
+|                                           | | - Casual = single-ride / day pass rider       |
+|                                           | | - Duration filtered to valid cleaned trips     |
++-------------------------------------------+ +-----------------------------------------------+
+
++--------------------------------------------------------------------------------------------------+
+| PAGE TITLE: Time and Usage Patterns                                                              |
+| Subtitle: When do members and casual riders use Cyclistic?                                      |
++--------------------------------------------------------------------------------------------------+
+
++------------------------------------------------------+ +-----------------------------------------+
+| Line Chart                                           | | Insight Box                             |
+| Trips by Month                                       | | Casual demand spikes in summer,         |
+| Member vs Casual                                     | | while member usage is more stable.      |
++------------------------------------------------------+ +-----------------------------------------+
+
++------------------------------------------------------+ +-----------------------------------------+
+| Clustered Column Chart                               | | Small KPI / Note Box                    |
+| Trips by Day of Week                                 | | Members peak midweek.                   |
+| Member vs Casual                                     | | Casual riders surge Fri-Sat.            |
++------------------------------------------------------+ +-----------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| Line Chart / Heatmap                                                                          |
+| Trips by Hour of Day                                                                          |
+| Member vs Casual                                                                              |
+|                                                                                               |
+| (Alternative: heatmap with Day on rows and Hour on columns)                                   |
++-----------------------------------------------------------------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| TAKEAWAY BOX                                                                                  |
+| Members show weekday commute-like behavior, while casual riders concentrate on leisure times. |
++-----------------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------------------+
+| PAGE TITLE: Ride Behavior                                                                        |
+| Subtitle: How do the two rider groups behave differently during trips?                          |
++--------------------------------------------------------------------------------------------------+
+
++-------------------------------------------+ +-----------------------------------------------+
+| Clustered Bar                             | | Stacked / Clustered Bar                      |
+| Avg vs Median Ride Length                 | | Ride Duration Buckets                        |
+| by Rider Type                             | | 1-5 | 6-10 | 11-20 | 21-30 | 31-60 | 61+    |
++-------------------------------------------+ +-----------------------------------------------+
+
++-------------------------------------------+ +-----------------------------------------------+
+| KPI / Small Bar Chart                     | | 100% Stacked Bar                             |
+| Round Trip Rate                           | | Bike Type Mix                                |
+| Member vs Casual                          | | classic vs electric vs docked                |
++-------------------------------------------+ +-----------------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| INTERPRETATION BOX                                                                            |
+| Casual riders dominate longer-duration and round-trip patterns, supporting a leisure-use case.|
++-----------------------------------------------------------------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| Optional Supporting Visual                                                                    |
+| Ride Duration Distribution / Box Plot / Smoothed Distribution                                 |
++-----------------------------------------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------------------+
+| PAGE TITLE: Conversion Opportunity                                                              |
+| Subtitle: Where and which casual riders are most likely to convert?                             |
++--------------------------------------------------------------------------------------------------+
+
++-------------------------------------------+ +-----------------------------------------------+
+| Horizontal Bar Chart                      | | Horizontal Bar Chart                         |
+| Top Start Stations - Casual Riders        | | Top Start Stations - Members                 |
++-------------------------------------------+ +-----------------------------------------------+
+
++------------------------------------------------------+ +-----------------------------------------+
+| Bar Chart / Table                                    | | Map / Filled Map / Bubble Map           |
+| Stations with Highest Casual Share                   | | Station Activity / Casual Share         |
+| Station | Total Trips | Casual %                     | |                                         |
++------------------------------------------------------+ +-----------------------------------------+
+
++------------------------------------------------------+ +-----------------------------------------+
+| Segment Visual                                       | | Insight Box                             |
+| Casual Rider Opportunity Segments                    | | 17.5% of casual trips already look      |
+| - Commuter Mimic                                     | | member-like, making them the best       |
+| - Standard Commuter                                  | | membership conversion target.           |
+| - Weekend Leisure                                    | |                                         |
+| - Round Trip Explorer                                | |                                         |
++------------------------------------------------------+ +-----------------------------------------+
+
++-----------------------------------------------------------------------------------------------+
+| RECOMMENDATION BOX                                                                            |
+| 1. Target commuter-like casual riders with savings/value messaging                            |
+| 2. Focus campaigns on high-casual stations and summer/weekend demand peaks                    |
+| 3. Emphasize membership value for frequent or longer rides                                    |
++-----------------------------------------------------------------------------------------------+
