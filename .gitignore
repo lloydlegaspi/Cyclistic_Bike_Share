@@ -46,3 +46,9 @@ ENV/
 
 # Optional local exports
 04_Visualizations/analysis_exports/*.html
+
+04_Visualizations/*.pbix
+02_Processed_Data/
+*.csv
+*.parquet
+*.zip
